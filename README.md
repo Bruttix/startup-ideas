@@ -1,1 +1,2 @@
-# startup-ideas
+# startup-of-the-year
+Starter project
